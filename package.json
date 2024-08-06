@@ -1,0 +1,14 @@
+{
+  "name": "assignment-1",
+  "version": "1.0.0",
+  "description": "1st assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "ANKITA MAHAPATRA",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
